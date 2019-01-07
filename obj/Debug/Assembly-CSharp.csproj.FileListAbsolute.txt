@@ -1,0 +1,2 @@
+C:\Users\Nathaneil\Documents\Unity\M2-Project-Files-2017-07-31\M2 - Project Files\14-16 - Platformer - until Input Manager\Challenge Platformer\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Nathaneil\Documents\Unity\M2-Project-Files-2017-07-31\M2 - Project Files\14-16 - Platformer - until Input Manager\Challenge Platformer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
